@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Draft Speech">
     <mepHeader>
         <prepDate>2011/06/13 CE</prepDate>
         <prepDate>2011/06/20 CE</prepDate>
+        <prepDate>2014/03/12 EK clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1937-05-00">May 1937</docDate>
         <docTitle>
@@ -15,25 +16,27 @@
             <bibl><title>LCM</title>11:1173</bibl>
         </sourceDesc>
         <respStmt>
-            <name id="BHM">Bermuda Health Department</name>
+            <name id="BHD">Bermuda Health Department</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><p>For a handwritten draft, see MSM S71:927; for an
             identical copy, see MSM S71:0932.</p>
         <index level1="Bermuda" level2="public health programs"/>
-        <index level1="family planning"/>
+        <index level1="Bermuda" level2="birth control in"/>
+        <index level1="Bermuda" level2="socioeconomic conditions"/>
+        <index level1="Bermuda" level2="birth control clinics and leagues"/>> 
         <index level1="working classes" level2="children"/>
         <index level1="working classes" level2="living conditions of"/>
+        <index level1="fertility control" level2="of physically disabled and diseased"/>
+        
     </headNote>
     <docBody>
         <div type="section">
             <p>The annual report for 1936 also disclosed the plans and
                 preparations in progress for an active campaign against syphilis
                 and gonorrhea.</p>
-            <p>The <org reg="Bermuda Hotel Men's Association"
-                        ><place>Bermuda</place> Hotel Men's Assoc.</org> has
-                asked the <org reg="Bermuda Health Department">Health
-                    Dept.</org> to provide facilities for the periodic
+            <p>The <org reg="Bermuda Hotel Men's Association">Bermuda Hotel Men’s Assoc.</org> has
+                asked the <org reg="Bermuda Health Department">Health Dept.</org> to provide facilities for the periodic
                 examination of all men and women employed in hotels to insure as
                 far as possible, that such employees be free from communicable
                 diseases.</p>
@@ -57,14 +60,14 @@
                 communicable or transmissible diseases is to treat them as such
                 and consider them as small pox, typhoid, measles and other
                 diseases should be treated--by isolation and treatment.</p>
-            <p>Bermuda is an ideal place to live in with no “depressions” in
+            <p><place>Bermuda</place> is an ideal place to live in with no “depressions” in
                 sight or in the rear--at least in over 300 years and not since
                 1860. Before that time they had two (?) but the question of
                 taxation is interesting. There is no income tax--no inheritance
                 or death tax--no estate or gift or personal property tax--no
                 school, no nuisance, no poll or no sales taxes. Only a tax for
                 those who own real estate and that amount is at the rate of less
-                than $3.00 a thousand. Bermuda is not a democracy and that's why
+                than $3.00 a thousand. Bermuda is not a democracy and that’s why
                 there is peace and contentment on the island.</p>
             <p>Less than 10% of its citizens can vote. Only adult males owning
                 &pound;60 or $300 worth of land have the suffrage. But there is one
@@ -81,11 +84,11 @@
                 Americans). This makes the section of such aliens important.
                 They have a policy of selection and investigation and such alien
                 must make formal application to the <person
-                    reg="Hildyard, Reginald John Thoroton">Governor</person> in
+                    reg="Hildyard, Reginald John Thornton">Governor</person> in
                 Council--his name is then published in the press and objections
                 can be raised and can be heard. The Governor investigates the
                 applicants reputation and standing and has power to refuse. This
-                power of the Governor's has resulted in a homogeneous character
+                power of the Governor’s has resulted in a homogeneous character
                 of alien residents and has prevented that most objectionable of
                 all booms--the land boom. Here there is only now beginning the
                 social service such as baby clinics but the health Dept. will

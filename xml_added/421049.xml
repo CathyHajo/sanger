@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+	<mepHeader>
+		<prepDate>2013/11/20 JK encoded</prepDate>
+		<prepDate>2014-06-01 EK clean regs</prepDate>
+		<prepDate>2015-02-12 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1932-10-09 ">9 Oct 1932</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Birth Control in Puerto Rico</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp421049</idno>
+		<sourceDesc>
+			<bibl>
+				<title type="article">Mrs. Sanger Aids Beverley</title>, <title type="journal">New
+					York Times</title>, Oct. 9, 1932, p. 9</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="NYT">New York Times</name>
+			<name id="SANMA">Margaret Sanger</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger sent a telegram sent to President <person reg="Hoover, Hebert">Herbert
+				Hoover</person>, protesting the <org>National Catholic Alumni Federation</org>'s
+			opposition to the plans of <person reg="Beverley, James R.">James R. Beverley</person>,
+			the Governor of <place>Puerto Rico</place>, to provide birth control for the island.</p>
+		<index level1="birth control" level2="laws and legislation" level3="in Puerto Rico"/>
+		<index level1="National Birth Control League"/>
+		<index level1="National Committee on Federal Legislation for Birth Control"/>
+		<index level1="Catholic Church" level2="birth control and"/>
+	</headNote>
+	<docBody>
+		<head>MRS. SANGER AIDS BEVERLEY</head>
+		<head type="sub">Protests to Hoover on Criticism of Birth Control Proposal.</head>
+
+		<p>
+			<q who="NYT"><person reg="Sanger, Margaret">Margaret Sanger</person>, head of the
+					<org>National Committee on Federal Legislation for Birth Control</org>, at 17
+				West Sixteenth Street, made public yesterday a telegram sent to President Hoover
+				protesting against the opposition of the National Catholic Alumni Federation to the
+				advocacy by Governor James R. Beverley of Puerto Rico of birth control for the
+				natives of the island.</q>
+		</p>
+		<p>“On behalf of the National Committee on Federal Legislation for Birth Control," I wish to
+			emphatically protest against the deliberate misstatements made by the National Catholic
+			Alumni Federationas reported in <title type="journal">The New York Times</title>,”<q
+				who="NYT"> her telegram said. “</q></p>
+		<p>Over 200 national and State organizations in medical, religious, social and educational
+			fields have publicly endorsed the principles of birth control and are sponsoring the
+			amendment of anti-birth control laws in this country. It is an arrogant interference on
+			the part of any religious group to attempt to suppress the economic and social facts and
+			to intimidate public officials who dare to present such facts when these are contrary to
+			medieval theology.”</p>
+
+	</docBody>
+</doc>

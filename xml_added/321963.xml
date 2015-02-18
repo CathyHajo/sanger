@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2013/11/13 JK encoded</prepDate>
+        <prepDate>2014/04/13 EK clean regs</prepDate>
+        <prepDate>2015-02-03 CH proof tags and enter</prepDate>
+        <docAuthor>
+            <person reg="Sanger, Margaret">Margaret Sanger</person>
+        </docAuthor>
+        <docDate value="1931-03-23">23 Mar 1931</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">Statement on Federal Churches of Christ in America
+                    Endorsement</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp321963</idno>
+        <sourceDesc>
+            <bibl><title type="article">Acclaims Report on Birth Control</title>, <title
+                    type="journal">Atlanta Constitution</title>, Mar. 24, 1931, p. 1</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="AC">Atlanta Constitution</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="Federal Council of the Churches of Christ in America"/>
+        <index level1="religion" level2="MS on"/>
+        <index level1="birth control" level2="religion and"/>
+        <index level1="sex and marriage"/>
+        <index level1="birth control" level2="morality of"/>
+    </headNote>
+    <docBody>
+        <head>Margaret Sanger Acclaims Report on Birth Control</head>
+        <div type="section">
+            <p><dateline><place>NEW YORK</place>. <date value="1931-03-23">March
+                    21</date>.--</dateline>
+                <q who="AC">>Mrs. Margaret Sanger, mild-mannered, gentle, but forceful leader of the
+                    birth control movement, in whose dynamic personality the whole movement is
+                    centered--whose name is world known, who has labored for birth control and gone
+                    to jail for it, not once but eight times, was deeply moved when the news was
+                    brought to her of the report of the committee on marriage and the home of the
+                    Federal Council of Churches of Christ in America. This report, through a
+                    majority of the committee members comes out directly for birth control as
+                    morally right and conducive to the protection of mother and child.</q></p>
+            <p><q who="AC">Back in the days of 1914 Mrs. Sanger, impressed by the need for
+                    intelligent understanding of birth control went to England and studied with
+                    Havelock Ellis, the eminent pioneer in sex education. From England, Mrs. Sanger
+                    went to Holland to study the birth control clinics there. And in 1916 Mrs.
+                    Sanger returned to America to direct and advocate the promotion of birth control
+                    clinics. Obstacles--traditional, religious and legal, loomed on all sides, but
+                    steadfastly Mrs. Sanger has adhered to what she knows to be a need.</q></p>
+            <p><q who="AC">Looking back today on the outstanding steps of this movement, Mrs. Sanger
+                    cited as most significant the first world population conference held in Geneva
+                    in 1927, the Lambeth conference of the past year, but the statement issued today
+                    through the committee on marriage and the home, is she says,</q> "a document of
+                the new age." "Today," <q who="AC">she continued, </q>"is a most significant one in
+                the history of the birth control movement. Today for the first time, a large,
+                representative group of churchmen and women has gone on record as being aware of the
+                tremendous mass of scientific information which we possess, medical, sociological
+                and psychological--and has applied it directly to the important question of the sex
+                relation between married people." </p>
+            <p>"My work during all these years," <q who="AC">Mrs. Sanger continued,</q> "has gone
+                steadily forward. Through education, through propaganda, through the establishment
+                of clinics, the truths were brought before many men and women. Truths as to the need
+                for the spacing of children, the limitation of the number of offspring, the
+                safeguarding of the health and oftimes the lives of mother and child. How grateful
+                we must then be to this progressive and representative body which in straightforward
+                and unequivocal terms--the result of clear thinking--puts its stamp of approval on
+                this subject of importance and necessity. Women's clubs, physicians, scientists,
+                sociologists, isolated groups of churchmen have in the past added the weight of
+                their approval. But this is the largest and perhaps the most significant group that
+                has as yet expressed itself in whole-hearted accord with our movement. </p>
+        </div>
+
+        <div type="section">
+            <head type="sub">Met Issue Fairly</head>
+            <p>"To admit that this knowledge of birth control will mean vice and immortality is to
+                admit the failure of the church in its influence and education," <q who="AC">Mrs.
+                    Sanger went on.</q> "This eminent group, representing as it does, the
+                    <org>Protestant church</org> in <place reg="United States">America</place>, has
+                recognized and accepted this responsibility of education and influence. They are to
+                be congratulated on their recognition of birth control as a moral and a valid idea
+                and for their clear and direct presentation of the findings of the committee. The
+                statement inspires me with a wholesome respect for a group with influence such as
+                that of the <org reg="Federal Council of the Churches of Christ in America">Federal
+                    Council of Churches</org> for its honesty and straight-forward thinking. They
+                have not evaded--they have not hedged--they have met the issue fairly. </p>
+            <p>Indeed, this is the largest step in the progress of the birth control movement. But
+                the task before us is not over by any means. Encouraged and inspired by the action
+                of the Federal Council of the Churches of Christ in America, we can now regard many
+                of the obstacles as cleared away. But our aim is still to put birth control on a
+                truly scientific basis, through research and education and the establishment of more
+                clinic. There is still a world of work to be done." </p>
+        </div>
+    </docBody>
+</doc>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<doc type="Published Typed Speech Article">
+    <mepHeader>
+        <prepDate>YYYY-MM-DD Initial</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="YYYY-MM-DD">Standard date format</docDate>
+        <docTitle>
+            <titlePart>Title of document</titlePart>
+        </docTitle>
+        <idno>msp233507</idno>
+        <sourceDesc>
+            <bibl><title>Journal if published</title> or archival collection if not</bibl>
+            <bibl><title>MSM</title> or LCM reel:frame</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Add text if needed. <index level1="xxxx"/></headNote>
+    <docBody>
+        <head>Title if it appears in doc.</head>
+        <byline>Add if needed</byline>
+                <p/>
+
+
+    </docBody>
+</doc>

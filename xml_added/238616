@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<doc type="Typed Speech">
+    <mepHeader>
+        <prepDate>2011/05/23 CE</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1941-07-00">Jul 1941</docDate>
+        <docTitle>
+            <titlePart>Eulogy for Hannah Stone</titlePart>
+        </docTitle>
+        <idno>msp238616</idno>
+        <sourceDesc>
+            <bibl>Archival collection unknown</bibl>
+            <bibl><title>MSM</title>S72:0273</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="xxxx"/>
+    </headNote>
+    <docBody>
+        <byline>MRS. MARGARET SANGER</byline>
+                <p/>
+
+
+    </docBody>
+</doc>

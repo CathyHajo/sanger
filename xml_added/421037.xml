@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2014/04/11 Initial tagging</prepDate>
+		<prepDate>2015-01-28 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1929-04-30">30 Apr 1929</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Illinois Birth Control League
+				Talk</supplied></titlePart>
+		</docTitle>
+		<idno>msp421037</idno>
+		<sourceDesc>
+			<bibl>
+				<title type="article">Mrs. Sanger Says Forces Are Gaining</title>, <title
+					type="journal">Billings Gazette</title>, May 1, 1929 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BG">Billings Gazette</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>Sanger spoke to the <org>Illinois Birth Control League</org>,
+				<org>Brush Foundation</org> and the <org>Chicago Women's Club</org> on April 30. The
+			speech was not found. </p>
+		<index level1="birth control" level2="in Chicago"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="mortality rates" level2="maternal"/>
+	</headNote>
+	<docBody>
+
+		<head>MRS. SANGER SAYS FORCES ARE GAINING</head>
+		<head type="sub">Three-Year Interval Between Children Is Among Recommendations of
+			Body</head>
+		<div>
+			<q who="BG">
+				<p> Crime, overpopulation, and disease would be checked by scientific birth control,
+					Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person> noted birth control
+					advocate, said here Tuesday. </p>
+			</q>
+			<q who="BG">
+				<p> Mrs. Sanger opened her midwestern campaign for amendment of the <name
+						reg="United States Penal Code, Section 211">federal laws prohibiting the
+						spread of contraceptive information</name> with a speech before the Illinois
+					Birth Control league and representatives of the Brush Foundation for the Study
+					of Birth Control at <place reg="Cleveland, OH">Cleveland</place>. </p>
+			</q>
+			<p> “In the five years we have been conducting clinics in <place reg="New York, NY">New
+					York</place>,” <q who="BG">she said,</q> “we have cared for 13,000 women and we
+				know we have saved 90 percent of them from death.”</p>
+		</div>
+		<div>
+			<head type="sub">Cites Alleged Good</head>
+			<p> “We have reduced maternal and infant mortality by insisting on a three-year interval
+				between children, and thus relieved the crowding of homes.” </p>
+			<q who="BG">
+				<p> Mrs. Sanger denounced the prosecution of Mrs. <person reg="Dennett, Mary Ware"
+						>Mary Ware Dennett</person>, grandmother-author of a sex book, who was fined
+					$300 by a New York judge. </p>
+			</q>
+			<p> “All New York is indignant about Mrs. Dennett’s trial,” <q who="BG">she
+					declared.</q> “Her pamphlet has been used by religious organizations for 10
+				years. <org>The Union Theological Seminary</org>, the <org>Young Woman’s Christian
+					Association</org> and the <org>Young Men’s Christian Association</org> have been
+				using it as textbook.”</p>
+			<q who="BG">
+				<p> Mrs. Sanger plans to organize a committee of 1,000 here to work for amendment of
+					the federal penal code provisions in regard to birth control. </p>
+			</q>
+		</div>
+		<div>
+			<head type="sub">Sees Progress</head>
+			<p> “<place reg="Chicago, IL">Chicago</place> has five birth control clinics and will
+				eventually be a greater field for our work than New York,” <q who="BG">she
+					predicted.</q> “This city, with its large population of mixed nationalities,
+				needs scientific birth control.</p>
+			<p> “Under the present penal code even a reputable doctor may not legally furnish
+				information or advice on this important matter. In 10 years, however, the government
+				will be organizing birth control clinics as an essential part of the program of
+				material and infant welfare.” </p>
+		</div>
+
+	</docBody>
+</doc>
