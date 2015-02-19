@@ -8,7 +8,7 @@
 		<docDate value="1934-07-25">25 Jul 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied>Russia</supplied>
+				<supplied resp="MSPP">Soviet Union Speech Notes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp110550</idno>
@@ -40,7 +40,8 @@
 	</headNote>
 	<docBody>
 		<dateline>
-			<date value="1934-07-25">Wednesday July 25th</date></dateline>
+			<date value="1934-07-25">Wednesday July 25th</date>
+		</dateline>
 		<div>
 			<p>Some <emph rend="underline">personal comments</emph> about M.S. coming to Russia--her
 				reasons, etc.</p>
